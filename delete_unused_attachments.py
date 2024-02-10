@@ -28,8 +28,8 @@ def delete_unused_attachments(z_ekler_path, main_folder_path):
             print("Deleted unused attachment:", file_name)
 
 # Define the paths to z_ekler folder and main folder
-z_ekler_path = r'C:\Users\baris\Obsidian\Kişisel\z_ekler'
-main_folder_path = r'C:\Users\baris\Obsidian\Kişisel'
+attachment_path = r'C:\Users\baris\Obsidian\Kisisel\attachment_path'
+main_folder_path = r'C:\Users\baris\Obsidian\Kisisel'
 
 # Call the function to delete unused attachments
 delete_unused_attachments(z_ekler_path, main_folder_path)
