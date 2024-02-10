@@ -5,7 +5,7 @@
 This script is designed to help users delete unused attachments in their Obsidian vault. When working with markdown files, users often include attachments such as images or files. However, over time, these attachments can accumulate and take up unnecessary space if they are no longer referenced in any of the markdown files.
 
 **How the Script Works:**
-The script scans through the specified directory containing attachments (referred to as z_ekler folder in this example) and checks if each attachment is referenced in any markdown file within the main folder and its subfolders. If an attachment is not referenced, the script deletes it.
+The script scans through the specified directory containing attachments (referred to as attachment_path folder in this example) and checks if each attachment is referenced in any markdown file within the main folder and its subfolders. If an attachment is not referenced, the script deletes it.
 
 **Usage:**
 Clone the Repository: Clone or download this repository to your local machine.
