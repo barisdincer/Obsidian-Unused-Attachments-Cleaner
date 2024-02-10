@@ -1,0 +1,1 @@
+# Obsidian-Unused-Attachments-Cleaner
